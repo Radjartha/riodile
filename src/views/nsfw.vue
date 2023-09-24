@@ -50,10 +50,31 @@
                   Noise, JackalLabs
                 </h3>
 
-                <div class="mb-2 text-gray-700 mt-10">
+                <div class="mb-5 text-gray-700 mt-10">
           He/Him/ | Alt of a blue bird | M | Lots of NSFW art | Will make puns
                 </div>
               </div>
+
+              <section class="py-2">
+    <p class="text-4xl leading-normal mt-0 mb-2 text-slate-900 font-bold uppercase text-center">Price List</p>
+		<div class="container mx-auto flex flex-col gap-3 items-center justify-center max-w-lg p-4 lg:max-w-full sm:p-10 lg:flex-row">
+
+			<div class=" flex flex-col items-center justify-center flex-1 p-4 pb-8 text-center rounded-md sm:p-8 lg:p-16 ">
+        <span class="text-3xl font-bold text-center pb-5">Gradient Shade Style</span>
+				<p class="font-semibold text-center">Icon / Bust : 400k | $40</p>
+        <p class="font-semibold text-center">Halfbody : 500k | $50</p>
+        <p class="font-semibold text-center">Fullbody : 600k | $60</p>
+				<!-- <button class="px-8 py-3 mt-6 text-lg font-semibold rounded sm:mt-12">Example</button> -->
+			</div>
+      <div class="flex flex-col items-center justify-center flex-1 p-4 pb-8 text-center rounded-md sm:p-8 lg:p-16 ">
+        <span class="text-3xl font-bold text-center pb-5">Cell Shade Style</span>
+				<p class="font-semibold text-center">Icon / Bust : 250k | $25</p>
+        <p class="font-semibold text-center">Halfbody : 300k | $30</p>
+        <p class="font-semibold text-center">Fullbody : 400k | $40</p>
+				<!-- <button class="px-8 py-3 mt-6 text-lg font-semibold rounded sm:mt-12 ">Example</button> -->
+			</div>
+		</div>
+	</section>
 
               <div class="mt-10 py-10 border-t border-gray-300 text-center">
                 <div class="text-4xl leading-normal mt-0 mb-2 text-slate-900 font-bold uppercase">
